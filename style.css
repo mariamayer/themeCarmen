@@ -892,3 +892,16 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+
+/*--------------------------------------------------------------
+## Sections
+--------------------------------------------------------------*/
+
+#about {
+	margin-top: 30px;
+}
+
+#about .col-lg-4 {
+	text-align: center;
+}
